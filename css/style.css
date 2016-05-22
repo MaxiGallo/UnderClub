@@ -1,0 +1,23 @@
+.divHeaderImglogo {
+  position: relative;
+  top: 31px;
+  left: 39px; }
+
+.imgHeader {
+  height: 150px;
+  width: 150px; }
+
+.ulHeader {
+  position: relative;
+  top: 100px;
+  text-transform: uppercase; }
+
+.glyphicon-envelope {
+  font-size: 40px;
+  line-height: 2; }
+
+header ul .activeLine {
+  background-color: transparent !important;
+  border-bottom: 2px solid #808080; }
+
+/*# sourceMappingURL=style.css.map */
