@@ -20,4 +20,13 @@ header ul .activeLine {
   background-color: transparent !important;
   border-bottom: 2px solid #808080; }
 
+.DivPodcast h1, .DivPodcast p {
+  position: relative;
+  top: 30px; }
+.DivPodcast #sc-widget {
+  position: relative;
+  top: 50px;
+  width: 100%;
+  height: 100px; }
+
 /*# sourceMappingURL=style.css.map */

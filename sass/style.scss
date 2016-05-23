@@ -1,3 +1,5 @@
+// Styling home section
+
 .divHeaderImglogo{
 	position: relative;
     top: 31px;
@@ -28,3 +30,21 @@ header{
 		}			
 	}
 }
+
+// styling podcast section
+.DivPodcast {
+	h1, p {
+		position:relative;
+		top:30px;
+	}
+
+	#sc-widget {
+		position:relative;
+		top:50px;
+		width: 100%;
+		height: 100px;
+	}
+
+}
+
+// 
